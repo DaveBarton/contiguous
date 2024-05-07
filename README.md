@@ -7,5 +7,5 @@ The contiguous typeclass parameterises over a contiguous array type.
 This allows us to have a common API to a number of contiguous
 array types and their mutable counterparts, namely those in primitive,
 making the experience of working with the primitive datatypes much cleaner
-and uniform.
+and more uniform.
 
